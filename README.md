@@ -34,3 +34,21 @@ Red wants to become the best monster tamer and to do so he goes on a journey tal
 ### Link
 
 [Class at Udemy](https://www.udemy.com/course/unreal-2d-top-down/learn/lecture/45563489#announcements)
+
+## License
+### Characters
+
+Creative Commons 0 (CC0)
+Made by Shade
+https://merchant-shade.itch.io/monster-catcher-npc-generator
+
+### Fonts
+
+Pixeled.ttf Font
+100% free
+Made by OmegaPC777
+https://www.dafont.com/pixeled.font
+
+### Environment, UI and Props
+Creative Commons 0 (CC0)
+Made by Cobra Code
