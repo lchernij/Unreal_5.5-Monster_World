@@ -36,6 +36,7 @@ Red wants to become the best monster tamer and to do so he goes on a journey tal
 [Class at Udemy](https://www.udemy.com/course/unreal-2d-top-down/learn/lecture/45563489#announcements)
 
 ## License
+
 ### Characters
 
 Creative Commons 0 (CC0)
@@ -50,5 +51,6 @@ Made by OmegaPC777
 https://www.dafont.com/pixeled.font
 
 ### Environment, UI and Props
+
 Creative Commons 0 (CC0)
 Made by Cobra Code
