@@ -10,7 +10,7 @@ Red wants to become the best monster tamer and to do so he goes on a journey tal
 ## Technology
 
 - Unreal 5.5
-- Plugin PaperZD
+- Plugin Paper2D
 
 ## Lessons
 
